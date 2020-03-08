@@ -1,5 +1,7 @@
 @charset "UTF-8";
+/*CSS DOCUMENT*/
 
+/*Responsive Site */
 body{
   font-family: Helvetica, Arial, sans-serif;
 }
@@ -36,6 +38,7 @@ background-color: grey;
 background-color: brown;
 }
 
+/*Responsive Smaller Screen*/
 @media screen and (max-width: 640px){
   .hidden2{
     display: none;
